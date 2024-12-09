@@ -1,0 +1,57 @@
+Exemplo de erros em que o programa continua funcionando até o fim.
+
+Token (FN, 'fn') reconhecido na entrada.
+Token (MAIN, 'main') reconhecido na entrada.
+Token (LBRACKET, '(') reconhecido na entrada.
+Token (RBRACKET, ')') reconhecido na entrada.
+Token (LBRACE, '{') reconhecido na entrada.
+Token (LET, 'let') reconhecido na entrada.
+Token (ID, 'a') reconhecido na entrada.
+Token (COMMA, ',') reconhecido na entrada.
+Token (ID, 'b') reconhecido na entrada.
+Token (COMMA, ',') reconhecido na entrada.
+Token (ID, 'c') reconhecido na entrada.
+Token (COMMA, ',') reconhecido na entrada.
+Token (ID, 'media') reconhecido na entrada.
+
+ERRO linha 2 | Esperava COLON
+
+Token (FLOAT, 'float') reconhecido na entrada.
+Token (SEMICOLON, ';') reconhecido na entrada.
+Token (ID, 'a') reconhecido na entrada.
+Token (ASSIGN, '=') reconhecido na entrada.
+Token (FloatConst, '8.2') reconhecido na entrada.
+Token (SEMICOLON, ';') reconhecido na entrada.
+Token (ID, 'b') reconhecido na entrada.
+Token (ASSIGN, '=') reconhecido na entrada.
+Token (FloatConst, '6.5') reconhecido na entrada.
+Token (SEMICOLON, ';') reconhecido na entrada.
+Token (ID, 'c') reconhecido na entrada.
+Token (ASSIGN, '=') reconhecido na entrada.
+Token (FloatConst, '7.0') reconhecido na entrada.
+
+ERRO linha 6 | Esperava SEMICOLON
+
+Token (ID, 'media') reconhecido na entrada.
+Token (ASSIGN, '=') reconhecido na entrada.
+Token (LBRACKET, '(') reconhecido na entrada.
+Token (ID, 'a') reconhecido na entrada.
+Token (PLUS, '+') reconhecido na entrada.
+Token (ID, 'b') reconhecido na entrada.
+Token (PLUS, '+') reconhecido na entrada.
+Token (ID, 'c') reconhecido na entrada.
+Token (RBRACKET, ')') reconhecido na entrada.
+Token (DIV, '/') reconhecido na entrada.
+Token (FloatConst, '3.0') reconhecido na entrada.
+Token (SEMICOLON, ';') reconhecido na entrada.
+Token (PRINTLN, 'println') reconhecido na entrada.
+Token (LBRACKET, '(') reconhecido na entrada.
+Token (FormattedString, '{}') reconhecido na entrada.
+Token (COMMA, ',') reconhecido na entrada.
+Token (ID, 'media') reconhecido na entrada.
+
+ERRO linha 8 | Esperava RBRACKET
+
+Token (SEMICOLON, ';') reconhecido na entrada.
+Token (RBRACE, '}') reconhecido na entrada.
+Fim da análise sintática.

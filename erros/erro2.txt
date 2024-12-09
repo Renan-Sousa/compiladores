@@ -1,0 +1,15 @@
+O erro na ARROW em retorno de função faz com que o programa pare.
+
+Token (FN, 'fn') reconhecido na entrada.
+Token (ID, 'soma') reconhecido na entrada.
+Token (LBRACKET, '(') reconhecido na entrada.
+Token (ID, 'x') reconhecido na entrada.
+Token (COLON, ':') reconhecido na entrada.
+Token (INT, 'int') reconhecido na entrada.
+Token (COMMA, ',') reconhecido na entrada.
+Token (ID, 'y') reconhecido na entrada.
+Token (COLON, ':') reconhecido na entrada.
+Token (INT, 'int') reconhecido na entrada.
+Token (RBRACKET, ')') reconhecido na entrada.
+ERRO linha 1 | Esperava LBRACE
+ERRO linha 1 | Esperava RBRACE

@@ -1,0 +1,227 @@
+[
+    {
+        "line_number": 1,
+        "token_type": "FN",
+        "token_name": "fn"
+    },
+    {
+        "line_number": 1,
+        "token_type": "MAIN",
+        "token_name": "main"
+    },
+    {
+        "line_number": 1,
+        "token_type": "LBRACKET",
+        "token_name": "("
+    },
+    {
+        "line_number": 1,
+        "token_type": "RBRACKET",
+        "token_name": ")"
+    },
+    {
+        "line_number": 1,
+        "token_type": "LBRACE",
+        "token_name": "{"
+    },
+    {
+        "line_number": 2,
+        "token_type": "LET",
+        "token_name": "let"
+    },
+    {
+        "line_number": 2,
+        "token_type": "ID",
+        "token_name": "a"
+    },
+    {
+        "line_number": 2,
+        "token_type": "COMMA",
+        "token_name": ","
+    },
+    {
+        "line_number": 2,
+        "token_type": "ID",
+        "token_name": "b"
+    },
+    {
+        "line_number": 2,
+        "token_type": "COMMA",
+        "token_name": ","
+    },
+    {
+        "line_number": 2,
+        "token_type": "ID",
+        "token_name": "c"
+    },
+    {
+        "line_number": 2,
+        "token_type": "COMMA",
+        "token_name": ","
+    },
+    {
+        "line_number": 2,
+        "token_type": "ID",
+        "token_name": "media"
+    },
+    {
+        "line_number": 2,
+        "token_type": "FLOAT",
+        "token_name": "float"
+    },
+    {
+        "line_number": 2,
+        "token_type": "SEMICOLON",
+        "token_name": ";"
+    },
+    {
+        "line_number": 3,
+        "token_type": "ID",
+        "token_name": "a"
+    },
+    {
+        "line_number": 3,
+        "token_type": "ASSIGN",
+        "token_name": "="
+    },
+    {
+        "line_number": 3,
+        "token_type": "FloatConst",
+        "token_name": "8.2"
+    },
+    {
+        "line_number": 3,
+        "token_type": "SEMICOLON",
+        "token_name": ";"
+    },
+    {
+        "line_number": 4,
+        "token_type": "ID",
+        "token_name": "b"
+    },
+    {
+        "line_number": 4,
+        "token_type": "ASSIGN",
+        "token_name": "="
+    },
+    {
+        "line_number": 4,
+        "token_type": "FloatConst",
+        "token_name": "6.5"
+    },
+    {
+        "line_number": 4,
+        "token_type": "SEMICOLON",
+        "token_name": ";"
+    },
+    {
+        "line_number": 5,
+        "token_type": "ID",
+        "token_name": "c"
+    },
+    {
+        "line_number": 5,
+        "token_type": "ASSIGN",
+        "token_name": "="
+    },
+    {
+        "line_number": 6,
+        "token_type": "FloatConst",
+        "token_name": "7.0"
+    },
+    {
+        "line_number": 6,
+        "token_type": "ID",
+        "token_name": "media"
+    },
+    {
+        "line_number": 6,
+        "token_type": "ASSIGN",
+        "token_name": "="
+    },
+    {
+        "line_number": 6,
+        "token_type": "LBRACKET",
+        "token_name": "("
+    },
+    {
+        "line_number": 6,
+        "token_type": "ID",
+        "token_name": "a"
+    },
+    {
+        "line_number": 6,
+        "token_type": "PLUS",
+        "token_name": "+"
+    },
+    {
+        "line_number": 6,
+        "token_type": "ID",
+        "token_name": "b"
+    },
+    {
+        "line_number": 6,
+        "token_type": "PLUS",
+        "token_name": "+"
+    },
+    {
+        "line_number": 6,
+        "token_type": "ID",
+        "token_name": "c"
+    },
+    {
+        "line_number": 6,
+        "token_type": "RBRACKET",
+        "token_name": ")"
+    },
+    {
+        "line_number": 6,
+        "token_type": "DIV",
+        "token_name": "/"
+    },
+    {
+        "line_number": 6,
+        "token_type": "FloatConst",
+        "token_name": "3.0"
+    },
+    {
+        "line_number": 6,
+        "token_type": "SEMICOLON",
+        "token_name": ";"
+    },
+    {
+        "line_number": 8,
+        "token_type": "PRINTLN",
+        "token_name": "println"
+    },
+    {
+        "line_number": 8,
+        "token_type": "LBRACKET",
+        "token_name": "("
+    },
+    {
+        "line_number": 8,
+        "token_type": "FormattedString",
+        "token_name": "{}"
+    },
+    {
+        "line_number": 8,
+        "token_type": "COMMA",
+        "token_name": ","
+    },
+    {
+        "line_number": 8,
+        "token_type": "ID",
+        "token_name": "media"
+    },
+    {
+        "line_number": 8,
+        "token_type": "SEMICOLON",
+        "token_name": ";"
+    },
+    {
+        "line_number": 9,
+        "token_type": "RBRACE",
+        "token_name": "}"
+    }
+]
